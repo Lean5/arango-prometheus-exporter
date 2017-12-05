@@ -1,0 +1,13 @@
+{
+  "name": "arango-prometheus-exporter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Manuel Pöter",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
